@@ -1,7 +1,7 @@
-<%@ include file="index.jsp" %>  
+
 <hr/>  
   
-<h3>Login Form</h3>  
+<h3>Valentina Semenov Login Page :)</h3>  
 <%  
 String profile_msg=(String)request.getAttribute("profile_msg");  
 if(profile_msg!=null){  
